@@ -1,0 +1,152 @@
+2025-06-16 22:40:12,488 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 22:40:12,488 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 22:40:12,489 - infrastructure.services.stability_ai_image_generator - INFO - API key de Stability configurada: tu_st...
+2025-06-16 22:40:12,489 - infrastructure.services.stability_ai_image_generator - INFO - StabilityAIImageGenerator inicializado correctamente
+2025-06-16 22:40:12,495 - __main__ - INFO - Iniciando aplicación TIYC
+2025-06-16 22:40:12,555 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-16 22:40:12,555 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-16 22:40:12,557 - werkzeug - INFO -  * Restarting with stat
+2025-06-16 22:40:14,406 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 22:40:14,406 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 22:40:14,407 - infrastructure.services.stability_ai_image_generator - INFO - API key de Stability configurada: tu_st...
+2025-06-16 22:40:14,407 - infrastructure.services.stability_ai_image_generator - INFO - StabilityAIImageGenerator inicializado correctamente
+2025-06-16 22:40:14,413 - __main__ - INFO - Iniciando aplicación TIYC
+2025-06-16 22:40:14,424 - werkzeug - WARNING -  * Debugger is active!
+2025-06-16 22:40:14,430 - werkzeug - INFO -  * Debugger PIN: 100-867-290
+2025-06-16 22:40:50,758 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:40:50] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-06-16 22:40:51,122 - mysql.connector.authentication - INFO - package: mysql.connector.plugins
+2025-06-16 22:40:51,123 - mysql.connector.authentication - INFO - plugin_name: caching_sha2_password
+2025-06-16 22:40:51,124 - mysql.connector.authentication - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-06-16 22:40:51,135 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:40:51] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-06-16 22:40:56,918 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:40:56] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-06-16 22:40:57,293 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:40:57] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-06-16 22:40:59,622 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:40:59] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-06-16 22:41:18,431 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:41:18] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-06-16 22:41:18,726 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:41:18] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-06-16 22:41:49,063 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:41:49] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-06-16 22:41:49,421 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:41:49] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-06-16 22:42:50,385 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:42:50] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-06-16 22:45:20,636 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:45:20] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-06-16 22:45:20,940 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:45:20] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2025-06-16 22:46:13,082 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 22:46:13,082 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 22:46:13,083 - infrastructure.services.stability_ai_image_generator - INFO - API key de Stability configurada: sk-WG...
+2025-06-16 22:46:13,084 - infrastructure.services.stability_ai_image_generator - INFO - StabilityAIImageGenerator inicializado correctamente
+2025-06-16 22:46:13,092 - __main__ - INFO - Iniciando aplicación TIYC
+2025-06-16 22:46:13,114 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-16 22:46:13,114 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-16 22:46:13,115 - werkzeug - INFO -  * Restarting with stat
+2025-06-16 22:46:15,130 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 22:46:15,130 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 22:46:15,132 - infrastructure.services.stability_ai_image_generator - INFO - API key de Stability configurada: sk-WG...
+2025-06-16 22:46:15,132 - infrastructure.services.stability_ai_image_generator - INFO - StabilityAIImageGenerator inicializado correctamente
+2025-06-16 22:46:15,140 - __main__ - INFO - Iniciando aplicación TIYC
+2025-06-16 22:46:15,153 - werkzeug - WARNING -  * Debugger is active!
+2025-06-16 22:46:15,156 - werkzeug - INFO -  * Debugger PIN: 100-867-290
+2025-06-16 22:46:17,203 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:46:17] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-06-16 22:46:17,564 - mysql.connector.authentication - INFO - package: mysql.connector.plugins
+2025-06-16 22:46:17,564 - mysql.connector.authentication - INFO - plugin_name: caching_sha2_password
+2025-06-16 22:46:17,565 - mysql.connector.authentication - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-06-16 22:46:17,817 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:46:17] "POST /api/auth/login HTTP/1.1" 200 -
+2025-06-16 22:46:17,879 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:46:17] "OPTIONS /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 22:46:18,210 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:46:18] "GET /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 22:48:19,041 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:48:19] "OPTIONS /api/illustrated-stories/f832b2cd-0f10-4bd0-9ad5-6e6e49b27209 HTTP/1.1" 200 -
+2025-06-16 22:48:19,296 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:48:19] "GET /api/illustrated-stories/f832b2cd-0f10-4bd0-9ad5-6e6e49b27209 HTTP/1.1" 200 -
+2025-06-16 22:48:19,620 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:48:19] "GET /static/images/aa5bb574-955e-4a28-b291-2142c11d186f.png HTTP/1.1" 200 -
+2025-06-16 22:48:19,620 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:48:19] "GET /static/images/83af2fd4-99a5-4b64-a54a-c9a27bb58172.png HTTP/1.1" 200 -
+2025-06-16 22:48:19,621 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 22:48:19] "GET /static/images/4db01bd1-ab2d-4ee4-b444-df59c12ea32d.png HTTP/1.1" 200 -
+2025-06-16 23:05:27,320 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 23:05:27,320 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 23:05:27,321 - infrastructure.services.stability_ai_image_generator - INFO - API key de Stability configurada: sk-WG...
+2025-06-16 23:05:27,321 - infrastructure.services.stability_ai_image_generator - INFO - StabilityAIImageGenerator inicializado correctamente
+2025-06-16 23:05:27,327 - __main__ - INFO - Iniciando aplicación TIYC
+2025-06-16 23:05:27,343 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-16 23:05:27,343 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-16 23:05:27,345 - werkzeug - INFO -  * Restarting with stat
+2025-06-16 23:05:29,342 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 23:05:29,342 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 23:05:29,343 - infrastructure.services.stability_ai_image_generator - INFO - API key de Stability configurada: sk-WG...
+2025-06-16 23:05:29,343 - infrastructure.services.stability_ai_image_generator - INFO - StabilityAIImageGenerator inicializado correctamente
+2025-06-16 23:05:29,349 - __main__ - INFO - Iniciando aplicación TIYC
+2025-06-16 23:05:29,362 - werkzeug - WARNING -  * Debugger is active!
+2025-06-16 23:05:29,366 - werkzeug - INFO -  * Debugger PIN: 100-867-290
+2025-06-16 23:21:39,944 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 23:21:39,944 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 23:21:39,946 - infrastructure.services.stability_ai_image_generator - INFO - API key de Stability configurada: sk-WG...
+2025-06-16 23:21:39,946 - infrastructure.services.stability_ai_image_generator - INFO - StabilityAIImageGenerator inicializado correctamente
+2025-06-16 23:21:39,952 - __main__ - INFO - Iniciando aplicación TIYC
+2025-06-16 23:21:39,970 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-16 23:21:39,970 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-16 23:21:39,972 - werkzeug - INFO -  * Restarting with stat
+2025-06-16 23:21:41,917 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 23:21:41,917 - app - INFO - Logging configurado y aplicación iniciada
+2025-06-16 23:21:41,918 - infrastructure.services.stability_ai_image_generator - INFO - API key de Stability configurada: sk-WG...
+2025-06-16 23:21:41,918 - infrastructure.services.stability_ai_image_generator - INFO - StabilityAIImageGenerator inicializado correctamente
+2025-06-16 23:21:41,925 - __main__ - INFO - Iniciando aplicación TIYC
+2025-06-16 23:21:41,936 - werkzeug - WARNING -  * Debugger is active!
+2025-06-16 23:21:41,941 - werkzeug - INFO -  * Debugger PIN: 100-867-290
+2025-06-16 23:21:48,304 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:21:48] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-06-16 23:21:48,647 - mysql.connector.authentication - INFO - package: mysql.connector.plugins
+2025-06-16 23:21:48,647 - mysql.connector.authentication - INFO - plugin_name: caching_sha2_password
+2025-06-16 23:21:48,648 - mysql.connector.authentication - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-06-16 23:21:48,850 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:21:48] "POST /api/auth/login HTTP/1.1" 200 -
+2025-06-16 23:21:48,878 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:21:48] "OPTIONS /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:21:49,194 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:21:49] "GET /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:21:51,099 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:21:51] "OPTIONS /api/illustrated-stories/d1232d26-286c-4ec2-b83a-4391865c1b42 HTTP/1.1" 200 -
+2025-06-16 23:21:51,431 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:21:51] "GET /api/illustrated-stories/d1232d26-286c-4ec2-b83a-4391865c1b42 HTTP/1.1" 200 -
+2025-06-16 23:21:51,753 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:21:51] "GET /static/images/ae801261-a1fb-4832-931b-6a4ce5955ffe.png HTTP/1.1" 200 -
+2025-06-16 23:21:51,753 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:21:51] "GET /static/images/8af5dc80-e7e4-411a-a737-0c4195756a96.png HTTP/1.1" 200 -
+2025-06-16 23:21:51,753 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:21:51] "GET /static/images/b7ed4c4d-39ef-4221-8022-3724c30bc397.png HTTP/1.1" 200 -
+2025-06-16 23:21:54,053 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:21:54] "OPTIONS /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:21:54,367 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:21:54] "GET /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:22:27,513 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:22:27] "OPTIONS /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:22:27,826 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:22:27] "GET /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:22:46,872 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:22:46] "OPTIONS /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:22:47,189 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:22:47] "GET /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:22:48,157 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:22:48] "OPTIONS /api/illustrated-stories/f832b2cd-0f10-4bd0-9ad5-6e6e49b27209 HTTP/1.1" 200 -
+2025-06-16 23:22:48,485 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:22:48] "GET /api/illustrated-stories/f832b2cd-0f10-4bd0-9ad5-6e6e49b27209 HTTP/1.1" 200 -
+2025-06-16 23:22:48,496 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:22:48] "[36mGET /static/images/aa5bb574-955e-4a28-b291-2142c11d186f.png HTTP/1.1[0m" 304 -
+2025-06-16 23:22:48,805 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:22:48] "[36mGET /static/images/83af2fd4-99a5-4b64-a54a-c9a27bb58172.png HTTP/1.1[0m" 304 -
+2025-06-16 23:22:48,805 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:22:48] "[36mGET /static/images/4db01bd1-ab2d-4ee4-b444-df59c12ea32d.png HTTP/1.1[0m" 304 -
+2025-06-16 23:22:50,580 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:22:50] "GET /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:25:45,760 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:25:45] "OPTIONS /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:25:46,012 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:25:46] "GET /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:25:53,403 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:25:53] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-06-16 23:25:53,916 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:25:53] "POST /api/auth/login HTTP/1.1" 200 -
+2025-06-16 23:25:53,974 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:25:53] "OPTIONS /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:25:54,244 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:25:54] "GET /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:25:58,598 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:25:58] "OPTIONS /api/illustrated-stories/f832b2cd-0f10-4bd0-9ad5-6e6e49b27209 HTTP/1.1" 200 -
+2025-06-16 23:25:58,922 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:25:58] "GET /api/illustrated-stories/f832b2cd-0f10-4bd0-9ad5-6e6e49b27209 HTTP/1.1" 200 -
+2025-06-16 23:25:59,263 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:25:59] "[36mGET /static/images/aa5bb574-955e-4a28-b291-2142c11d186f.png HTTP/1.1[0m" 304 -
+2025-06-16 23:25:59,264 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:25:59] "[36mGET /static/images/83af2fd4-99a5-4b64-a54a-c9a27bb58172.png HTTP/1.1[0m" 304 -
+2025-06-16 23:25:59,266 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:25:59] "[36mGET /static/images/4db01bd1-ab2d-4ee4-b444-df59c12ea32d.png HTTP/1.1[0m" 304 -
+2025-06-16 23:26:34,781 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:26:34] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-06-16 23:26:35,332 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:26:35] "POST /api/auth/login HTTP/1.1" 200 -
+2025-06-16 23:26:35,349 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:26:35] "OPTIONS /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:26:35,668 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:26:35] "GET /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:26:36,680 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:26:36] "OPTIONS /api/illustrated-stories/f832b2cd-0f10-4bd0-9ad5-6e6e49b27209 HTTP/1.1" 200 -
+2025-06-16 23:26:37,010 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:26:37] "GET /api/illustrated-stories/f832b2cd-0f10-4bd0-9ad5-6e6e49b27209 HTTP/1.1" 200 -
+2025-06-16 23:26:37,020 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:26:37] "[36mGET /static/images/aa5bb574-955e-4a28-b291-2142c11d186f.png HTTP/1.1[0m" 304 -
+2025-06-16 23:26:37,330 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:26:37] "[36mGET /static/images/83af2fd4-99a5-4b64-a54a-c9a27bb58172.png HTTP/1.1[0m" 304 -
+2025-06-16 23:26:37,330 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:26:37] "[36mGET /static/images/4db01bd1-ab2d-4ee4-b444-df59c12ea32d.png HTTP/1.1[0m" 304 -
+2025-06-16 23:34:17,931 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:34:17] "OPTIONS /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:34:18,199 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:34:18] "GET /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:34:21,078 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:34:21] "OPTIONS /api/illustrated-stories/f832b2cd-0f10-4bd0-9ad5-6e6e49b27209 HTTP/1.1" 200 -
+2025-06-16 23:34:21,399 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:34:21] "GET /api/illustrated-stories/f832b2cd-0f10-4bd0-9ad5-6e6e49b27209 HTTP/1.1" 200 -
+2025-06-16 23:34:21,719 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:34:21] "[36mGET /static/images/aa5bb574-955e-4a28-b291-2142c11d186f.png HTTP/1.1[0m" 304 -
+2025-06-16 23:34:21,720 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:34:21] "[36mGET /static/images/83af2fd4-99a5-4b64-a54a-c9a27bb58172.png HTTP/1.1[0m" 304 -
+2025-06-16 23:34:21,720 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:34:21] "[36mGET /static/images/4db01bd1-ab2d-4ee4-b444-df59c12ea32d.png HTTP/1.1[0m" 304 -
+2025-06-16 23:38:00,107 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:38:00] "OPTIONS /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:38:00,380 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:38:00] "GET /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:39:40,109 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:39:40] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-06-16 23:39:40,756 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:39:40] "POST /api/auth/login HTTP/1.1" 200 -
+2025-06-16 23:39:40,849 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:39:40] "OPTIONS /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:39:41,170 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:39:41] "GET /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:50:30,573 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:50:30] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2025-06-16 23:50:31,033 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:50:31] "POST /api/auth/login HTTP/1.1" 200 -
+2025-06-16 23:50:31,092 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:50:31] "OPTIONS /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
+2025-06-16 23:50:31,399 - werkzeug - INFO - 127.0.0.1 - - [16/Jun/2025 23:50:31] "GET /api/stories/teacher/1f0204b9-0807-47c9-8c25-4c7f81dc0d74?limit=20 HTTP/1.1" 200 -
